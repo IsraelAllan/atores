@@ -15,3 +15,6 @@ Este projeto web permite que os usuários busquem por atores e filmes em uma bas
 
 ## Como Utilizar
 * Abra este link do Versel para ver o projeto: https://atores-blond.vercel.app
+
+## Ainda vou fazer algumas alterações...
+
